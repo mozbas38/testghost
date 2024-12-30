@@ -38,7 +38,7 @@ app.listen(port, () => {
 });
 
 const statusMessages = ["discord.gg/YQAeV5Vpxs", "discord.gg/prideturkiye"];
-const statusTypes = [ 'dnd', 'idle'];
+const statusTypes = ['online'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
 
